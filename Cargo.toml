@@ -1,7 +1,7 @@
 [package]
 name = "triple"
 description = "embeddable/standalone rdf triple store"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Tyler Neely <t@jujit.su>"]
 license = "Apache-2.0"
 homepage = "https://github.com/spacejam/triple"
